@@ -1,0 +1,8 @@
+Circulos al Azar) una página con nueve circulos que $('circulo').click(function(){ $(this).toggleClass('active'); mientras que un random.floor de cero a ocho, los haga cambiar de color.
+
+1 .- hacer una página web con nueve circulos con css y divs
+
+
+Tu nombre mágico2) las letras en círculos que cambien de color con las teclas correspondientes, hasta que aparezca el nombre completo
+Tu nombre Mágico3) introducir un nombre y que aparezcan en circulos agregando divs...
+Tu nombre Mágico4) modificar el primero para que puedan moverse cosas y ocupar el lugar de las letras

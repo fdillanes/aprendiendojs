@@ -1,0 +1,38 @@
+h1 {
+	font-family: 'Arial';
+	font-size: 30px;
+	text-align: center;
+	}
+
+.inactivo {
+	background-color:#ff0000;
+	text-align:center;
+	}
+
+.activo {
+	background-color:#ffcc00;
+}
+
+div {
+	border: 5px solid black;
+	border-radius:100%;
+	padding:50px;
+	margin:auto;
+	text-align:center;
+	display: inline-block;
+	font-family:'Sans-serif';
+	font-weight: bold; 
+	font-size:50px;
+
+}
+
+img {
+	position: relative;
+	width: 150px;
+	height: 150px;
+	float:both;
+}
+
+#ficha {
+	position: relative;
+}

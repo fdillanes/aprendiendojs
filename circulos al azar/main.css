@@ -1,0 +1,41 @@
+h1 {
+	font-family: 'Arial';
+	font-size: 30px;
+	text-align: center;
+	}
+
+.inactivo {
+	background-color:#ff0000;
+	text-align:center;	
+	}
+
+.activo {
+	background-color:#ffcc00;
+}
+
+.resuelto {
+	background-color:#00ff00;
+}
+
+table{
+ 	clear:both;
+	margin:auto;
+}
+
+div {
+	border: 5px solid black;
+	border-radius:100%;
+	padding:50px;
+	margin:auto;
+	text-align:center;
+	display: inline-block;
+	font-family:'Sans-serif';
+	font-weight: bold;
+	font-size:50px;
+
+	}
+
+div:hover{
+border-radius:40%;
+border: 5px dotted yellow;
+
