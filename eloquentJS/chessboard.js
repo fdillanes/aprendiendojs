@@ -7,13 +7,13 @@ var blanca = " ";
 var negra = "#";
 var linea = "";
 for (t = 0; t < 4; t++){
-    for (i = 0; i < 8; i++){
+    for (i = 0; i < 4; i++){
         linea = linea + blanca;
         linea = linea + negra;
     }
     console.log(linea, "\n");
     linea = "";
-    for (j = 0; j < 8; j++){
+    for (j = 0; j < 4; j++){
         linea = linea + negra;
         linea = linea + blanca;
     }
